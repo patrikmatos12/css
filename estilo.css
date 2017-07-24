@@ -1,1 +1,55 @@
 # css
+.corpo {
+	
+}
+#txt{
+	font-size: 13px;
+	font-style: oblique;
+	font-family: Times,serif;
+	color: #D3D3D3;
+	text-align: center;
+	text-align: justify;
+	padding-right: 10px;
+	padding-top: 5px;
+
+
+}
+#txt:hover{
+	color:black;
+}
+#imgvl{
+	text-align: center;
+	width: 350px;
+
+}
+#simet{
+	text-align: center;
+	width: 250px;
+}
+#velocimetro{
+	width: 220px;
+	height: 175px;
+}
+.button{
+	
+	text-align: center;
+	padding-top: center;
+
+}
+.txtbutton{
+	border: 1.6px solid #808080;
+	border-radius: 6px;
+	background-color:white;
+	text-align: center;
+	font-size: 11px;
+	padding: 5px;
+	width: 75%;
+	
+
+
+}
+.txtbutton:hover {
+	color: #00008B;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
